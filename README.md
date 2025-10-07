@@ -18,7 +18,7 @@
 * `PATCH /tasks/{id}` — редактирование задачи
 * `DELETE /tasks/{id}` — удаление задачи
 
-Примеры запросов (curl и Postman) приведены в [docs/requests.md](/requests.md).
+Примеры запросов приведены в [docs/requests.md](/requests.md).
 
 ---
 
